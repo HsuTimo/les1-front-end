@@ -8,3 +8,13 @@ body{
     margin-right: 20%;
     padding: 2%;
 }
+nav ul{
+    display: flex;
+}
+nav li{
+    margin-right: 10%;
+    list-style-type: none;
+}
+nav li:hover{
+    font-weight: bold;
+}
